@@ -40,6 +40,6 @@ darts_fired: 5
 base_damage_by_dart: {'dart_1': 4, 'dart_2': 2, 'dart_3': 3, 'dart_4': 2, 'dart_5': 4}
 total_damage_by_dart: {'dart_1': 5, 'dart_2': 3, 'dart_3': 4, 'dart_4': 3, 'dart_5': 5}
 total_damage_all_darts: 20
-[wizard@bitdev magic-missile]$ 
+[wizard@dev magic-missile]$ 
 ```
 
