@@ -10,12 +10,12 @@ Disclaimer, this is code, not magic, unlike magic there may be bugs and silly th
 ## Examples of use:
 
 ```
-wizard@dev magic-missile]$ ./cast_magic_missile.py 
+[wizard@dev magic-missile]$ ./cast_magic_missile.py 
 Usage: cast_magic_missile.py <spell-slot level> <spell-mode>
-       spell-slot level must be an integer
-       spell-mode either 'roll_die' or 'roll_dice'
-           roll_die, rolls 1 die and result applied to each dart
-           roll_dice, rolls a die for each dart
+     spell-slot level must be an integer
+     spell-mode either 'roll_die' or 'roll_dice'
+       roll_die, rolls a 1d4 once, and result applied to each dart
+       roll_dice, rolls a 1d4 for each dart
 [wizard@dev magic-missile]$
 ```
 
