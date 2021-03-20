@@ -1,11 +1,13 @@
 # magic-missile
 D&amp;D (5th edition) Magic Missile spell in Python, cast the spell with one die, or a die for each dart, depending on your persuasion
 
-## why ? A wizard overheard some friends shooting-the-breeze about whether magic-missile should be cast with one d20 and the result applied to each dart, or a d20 should be rolled for each dart and result per die rolled applied to each dart. This gave the wizard an itch to scratch and so he wrote some python code.
+### why ? A wizard overheard some friends shooting-the-breeze about whether magic-missile should be cast with one d20 and the result applied to each dart, or a d20 should be rolled for each dart and result per die rolled applied to each dart. This gave the wizard an itch to scratch and so he wrote some python code.
 
-## disclaimer, this is code, not magic, unlike magic there may be bugs and silly things lurking.
+### For those not familar and left utterly confused, see: https://www.dndbeyond.com/spells/magic-missile
 
-## examples :
+### Disclaimer, this is code, not magic, unlike magic there may be bugs and silly things lurking.
+
+## Examples of use:
 
 ```
 wizard@dev magic-missile]$ ./cast_magic_missile.py 
