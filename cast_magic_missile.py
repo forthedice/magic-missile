@@ -5,10 +5,10 @@ from magic_missile import MagicMissile
 
 def usage():
      print("Usage: cast_magic_missile.py <spell-slot level> <spell-mode>")
-     print("       spell-slot level must be an integer")
-     print("       spell-mode either 'roll_die' or 'roll_dice'")
-     print("           roll_die, rolls 1 die and result applied to each dart")
-     print("           roll_dice, rolls a die for each dart")
+     print("     spell-slot level must be an integer")
+     print("     spell-mode either 'roll_die' or 'roll_dice'")
+     print("       roll_die, rolls a 1d4 once, and result applied to each dart")
+     print("       roll_dice, rolls a 1d4 for each dart")
      exit()
   
 def main(argv):
